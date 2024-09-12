@@ -55,11 +55,9 @@ v.s_plot(data, x='Category', y='Values', title='Interactive Scatter Plot', inter
   
 ### Heatmap
 ```python
-# Heatmap from correlation matrix or 2D data
 v.hmap(data.corr(), title='Heatmap Example')
 ```
 ### Histogram
 ```python
-# Example histogram
 v.hist(data['Values'], title='Histogram Example')
 ```
