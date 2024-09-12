@@ -1,1 +1,1 @@
-from .viz import VZN
+from .viz import vzn

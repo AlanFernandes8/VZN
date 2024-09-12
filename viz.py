@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-class VZN:
+class vzn:
     def __init__(self):
         pass
 

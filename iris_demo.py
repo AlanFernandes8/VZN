@@ -1,10 +1,10 @@
 import seaborn as sns
-from viz import VZN
+from viz import vzn
 
 def main():
     iris = sns.load_dataset('iris')
 
-    viz = VZN()
+    viz = vzn()
 
     print("Iris Dataset:")
     print(iris.head())
